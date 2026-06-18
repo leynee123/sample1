@@ -1,0 +1,5 @@
+window + r, type "sysdm.cpl"
+Click "Change" 
+Set the deesired Computername
+  Type the desired Domain URL
+    Click "OK"
